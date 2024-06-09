@@ -1,0 +1,56 @@
+import HomePage from ..pageHomePageHomePage;
+import NotFoundPage from ..pageNotFoundPageNotFoundPage;
+import OrderPage from ..pageOrderPageOrderPage;
+import ProductDetailPage from ..pageProductDetailPageProductDetailPage;
+import ProductsPage from ..pageProductsPageProductsPage;
+import SignInPage from ..pageSignInPageSignInPage;
+import SignUpPage from ..pageSignUpPageSignUpPage;
+import TypeProductPage from ..pageTypeProductPageTypeProductPage;
+
+
+export const routes =[
+    {
+        path '',
+        page HomePage,
+        isShowHeader true
+
+    },
+    {
+        path 'order',
+        page OrderPage,
+        isShowHeader true
+    },
+    {
+        path 'products',
+        page ProductsPage,
+        isShowHeader true
+    },
+    {
+        path '',
+        page NotFoundPage
+
+    },
+    {
+        path 'type',
+        page TypeProductPage,
+        isShowHeader true
+    },
+    {
+        path 'sign-in',
+        page SignInPage,
+        isShowHeader true
+    },
+    {
+        path 'sign-up',
+        page SignUpPage,
+        isShowHeader true
+    },
+
+    {
+        path 'product-details',
+        page ProductDetailPage,
+        isShowHeader true
+    },
+
+    
+]

@@ -1,0 +1,16 @@
+npm install styled-components
+npm install antd
+npm install @reduxjs/toolkit
+npm i react-slick
+npm install slick-carousel
+npm i axios dotenv
+npm install -g react-devtools
+npm i @tanstack/react-query
+npm i @tanstack/react-query-devtools
+npm install axios jsonwebtoken
+<<<<<<< HEAD
+=======
+npm install react-datepicker 
+>>>>>>> f97dc5a1ea84814fdc2a4d9b916b5b1e7bdd2879
+npm install react-icons
+npm install react-apexcharts apexcharts

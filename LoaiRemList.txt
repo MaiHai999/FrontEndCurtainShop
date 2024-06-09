@@ -1,0 +1,10 @@
+1	Rèm cửa
+2	Rèm vải
+3	Rèm cuốn
+4	Rèm Roman
+5	Rèm văn phòng
+6	Rèm sáo gỗ
+7	Rèm sáo nhôm
+8	Rèm cầu vồng
+9	Rèm sợi chỉ
+10	Rèm phòng tắm

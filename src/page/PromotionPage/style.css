@@ -1,0 +1,29 @@
+
+
+
+
+.title {
+  color: black;
+  padding: 10px;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 16px; 
+  padding: 20px;
+}
+
+.button-style{
+  width: 33.33%;
+  display: block; 
+  margin: 0 auto;
+}
+
+
+.readonly-input {
+  pointer-events: none;
+  opacity: 0.5;        
+}
